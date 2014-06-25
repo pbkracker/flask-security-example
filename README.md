@@ -10,7 +10,7 @@
 
 3. Install dependencies:
 
-    $ pip install -r requirements.text
+    $ pip install -r requirements.txt
 
 4. Copy the example email config and edit the values:
 
